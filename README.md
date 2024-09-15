@@ -1,4 +1,4 @@
-## Birinchi marta shu terminalga komandani terasiz
+ ## Birinchi marta shu terminalga komandani terasiz
 
 ````
 npm i 
